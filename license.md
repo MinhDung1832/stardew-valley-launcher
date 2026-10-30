@@ -231,4 +231,4 @@ simply how these tools work in practice.
 
 > 🛟 **Still stuck?** Open an issue and include your OS and the steps you tried — the guide above solves 9 out of 10 problems.
 
-*stardew-valley-launcher · Updated 2026-10-29 · Shared under the MIT License*
+*stardew-valley-launcher · Updated 2026-10-30 · Shared under the MIT License*
